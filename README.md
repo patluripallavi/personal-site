@@ -13,7 +13,7 @@
   <body>
     <table cellspacing="30">
       <tr>
-        <td><img src="image/pallavi.png.jpg" alt="pallavi's profile picture"></td>
+        <td><img src="https://github.com/patluripallavi/personal-site/blob/master/pallavi.png.jpg?raw=true" alt="pallavi's profile picture"></td>
         <td>  <h1>PATLURI PALLAVI</h1>
 
           <h3><p>Fly High ⇮</p>
